@@ -1,0 +1,2 @@
+Primeiro artefato do projeto.
+Aula prática de Gestão de Configuração.
